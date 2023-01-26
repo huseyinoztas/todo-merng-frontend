@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #3498db;
+
+}
+
+form {
+  background-color: #ecf0f1;
+  padding: 30px;
+  margin-top: 10px;
+}
+
+.title {
+  color: #3498db;
+}
+
+.list {
+  background-color: #dfe4ea;
+  padding: 30px;
+  margin-top: 10px;
+}
+
