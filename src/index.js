@@ -5,7 +5,7 @@ import App from './App';
 import { ApolloProvider, InMemoryCache, ApolloClient } from '@apollo/client';
 
 const client = new ApolloClient({
-  uri:'http://localhost:5000/graphql',
+  uri:'https://todo-merng-bakcend.onrender.com',
   cache:new InMemoryCache()
 })
 
